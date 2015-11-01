@@ -1,7 +1,10 @@
 LaunchDarkly SDK for Python
 ===========================
 
+[![PyPI](https://img.shields.io/pypi/v/ldclient-py.svg)](https://pypi.python.org/pypi/ldclient-py)
+[![PyPI Versions](https://img.shields.io/pypi/pyversions/ldclient-py.svg)]()
 ![Circle CI](https://circleci.com/gh/launchdarkly/python-client.png)
+[![Code Climate](https://codeclimate.com/github/launchdarkly/python-client/badges/gpa.svg)](https://codeclimate.com/github/launchdarkly/python-client)
 
 Quick setup
 -----------
